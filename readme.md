@@ -1,3 +1,14 @@
+<p align="center">
+<a href="https://packagist.org/packages/znframework/package-protection" rel="nofollow">
+	<img src="https://img.shields.io/packagist/dt/znframework/package-protection?style=flat-square" style="max-width:100%;"></a>
+<a href="//packagist.org/packages/znframework/package-protection" rel="nofollow">
+	<img src="https://img.shields.io/github/v/release/znframework/package-protection?style=flat-square&color=00BFFF" style="max-width:100%;"></a>
+<a href="//packagist.org/packages/znframework/package-protection" rel="nofollow">
+	<img src="https://img.shields.io/github/release-date/znframework/package-protection?style=flat-square" style="max-width:100%;"></a>
+<a href="//packagist.org/packages/znframework/package-protection" rel="nofollow">
+	<img src="https://img.shields.io/github/license/znframework/package-protection?style=flat-square" style="max-width:100%;"></a>
+</p>
+
 <h2>ZN Framework Protection Package</h2>
 <p>
 Follow the steps below for installation and use.
